@@ -1,0 +1,46 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/index.HASH_REF_4e4b48d14b05138322efb086ec8548c3.css">
+    <title>First Template</title>
+
+</head>
+
+<body>
+    <h1>Class Notes</h1>
+    <p>control tilde to open the terminal <br>type: node <br>npm init - y, creates a package.json, which manages
+        <br>anything you install into the repo <br> <br>npm i <br><br>check github issues
+    </p>
+
+
+
+
+
+
+    Example Quizzes:
+    <ul>
+        <li><a href="https://suspicious-volhard-203196.netlify.app/"></a></li>
+        <li></li>
+        <li> https://michaelandbillyquizgame.netlify.app/</li>
+        <li>https://apcsp-jsquiz.netlify.app/question.html</li>
+        <li>https://csquizproject.netlify.app/</li>
+        <li>https://nervous-leavitt-b0f85b.netlify.app</li>
+        <li>https://burh.netlify.app</li>
+        <li>https://nateandalanquizgame.netlify.app/</li>
+        <li>https://serene-wozniak-0140db.netlify.app/</li>
+    </ul>
+
+
+
+
+
+
+
+
+    <script src="/index.HASH_REF_062e9a7565ca912a5f7d6b832142d36c.js"></script>
+</body>
+
+</html>

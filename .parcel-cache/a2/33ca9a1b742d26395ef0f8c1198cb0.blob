@@ -1,0 +1,46 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="a60f8e0cde6a6effe90044aab8273e00">
+    <title>First Template</title>
+
+</head>
+
+<body>
+    <h1>Class Notes</h1>
+    <p>control tilde to open the terminal <br>type: node <br>npm init - y, creates a package.json, which manages
+        <br>anything you install into the repo <br> <br>npm i <br><br>check github issues
+    </p>
+
+
+
+
+
+
+    Example Quizzes:
+    <ul>
+        <li><a href="14097dba4db63c91c4656c88cc20cdc9">KAREN AND COLLEEN'S PSYCHIC READINGS</a></li>
+        <li><a href="79ec0b8b4c25933300691fd703ec038e">Michael and Billy Quiz Game</a></li>
+        <li><a href="6d9474bd776adf82a41dcf42424a8040">JavaScript Quiz</a></li>
+        <li><a href="88f55ae1b527fdafa0b57bf1ce3bb83b">WWII Quiz</a></li>
+        <li><a href="86e8c5fe5ec6f6c919307b8701996430">Nintendo Quiz</a></li>
+        <li><a href="4b36355e41a53af42e097a7d3a031ee7">Meme History Quiz</a></li>
+        <li><a href="f7865586b961a99c2f61123b75c8b7a8">Quiz</a></li>
+        <li><a href="62405c7ec9a6e280ce9552b9f8d84bfe">Broken af Anime Quiz</a></li>
+
+    </ul>
+
+
+
+
+
+
+
+
+    <script src="06dfe9f8db92a79f21cf80f953a0a070"></script>
+</body>
+
+</html>

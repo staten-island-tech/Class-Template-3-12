@@ -1,0 +1,7 @@
+body {
+  background-color: seagreen;
+}
+
+body a {
+  text-decoration: none;
+}

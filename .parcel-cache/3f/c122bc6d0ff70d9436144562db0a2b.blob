@@ -1,0 +1,8 @@
+body {
+  background-color: seagreen;
+}
+
+.examplelink {
+  text-decoration: none;
+}
+/*# sourceMappingURL=index.HASH_REF_4e4b48d14b05138322efb086ec8548c3.css.map */
